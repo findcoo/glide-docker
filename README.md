@@ -2,4 +2,4 @@
 
 ## What is?
   * glide preinstalled image
-  * deploy  docker image which glide based
+  * deploy a docker image which glide based
